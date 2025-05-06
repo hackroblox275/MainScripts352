@@ -5,7 +5,7 @@ CoreGui:SetCore("SendNotification", {
     Title = "Script Made By",
     Text = "GhostPlayer",
     Icon = "rbxassetid://29819383",
-    Duration = 2.5,r
+    Duration = 2.5,
 })
 
 local LogoQuizGui = Instance.new("ScreenGui")
